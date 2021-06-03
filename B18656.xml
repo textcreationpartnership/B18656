@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the contractors, for making and vending copper half-pence and farthings</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18656</idno><idno type="EEBO-CITATION">99827162</idno>
+  <idno type="VID">207551</idno>
+  <idno type="EEBO-PROQUEST">2248497839</idno>
+  
+            <idno type="STC">Wing C1052A</idno>
+            <idno type="PROQUEST">99827162</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827162e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207551)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1905:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the contractors, for making and vending copper half-pence and farthings</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Goldsmiths's Library, University of London, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Money --  England --  Early works to 1800.</term>
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:207551:1"/>
+            <pb facs="tcp:207551:1"/>
+            <head>THE CASE OF THE CONTRACTORS, For Making and Vending Copper Half-Pence and Farthings.</head>
+            <p>UPON the general Complaint made of the <hi>Inconvenience</hi> and <hi>Badness</hi> of the Tin Farthings, and Half-Pence, His present Majesty, for Remedy thereof, and to Encourage the Manufactory of <hi>English</hi> Cop<g ref="char:EOLhyphen"/>per, did (on the 27th. of <hi>June,</hi> 1694.) grant License, to the said <hi>Contractors,</hi> to make and Coin (by the Officers of and in His Majesty's Mint, in the Tower) Copper Half-Pence and Farthings, for <hi>Seven</hi> Years, not exceeding 700 Tuns in the whole, at One and Twenty Pence half-penny, in tale, to the Pound weight; the same to be made of fine <hi>English</hi> Copper. And thereupon the <hi>Contractors,</hi> did Covenant with His Majesty, to exchange 200 <hi>l. per</hi> Week of true Tin Farthings, by tale, for Copper half Pence and Farthings, and to melt down such Tin Farthings every <hi>fourteen</hi> days.</p>
+            <p>PURSUANT whereunto, the said <hi>Contractors</hi> have made use of no other than fine <hi>English</hi> Copper, and made, and cut the Copper half Pence and Farthings within the value of 21 <hi>d.</hi> ½ to the pound weight, and have exchanged true Tin Farthings and half Pence, brought to their Office, at the rate of 200 <hi>l. per</hi> Week, and melted them down according to their Contract.</p>
+            <p>NOTWITHSTANDING which, Complaint was made to the Honourable House of Commons, the 13th. day of <hi>January</hi> last, of the scarcity of Copper half Pence and Farthings; that the same were made of base Copper, and were refu<g ref="char:EOLhyphen"/>sed to be delivered but for Mill'd and Unclipt Money, and at 10 <hi>l.</hi> or 15 <hi>l. per cent.</hi> and that the <hi>Contractors</hi> refused to ex<g ref="char:EOLhyphen"/>change the Tin Farthings.</p>
+            <p>WHEREAS it hath been made appear by the Books kept in the Mint, and the Comptrolers Account, that to the end of <hi>September</hi> last, the <hi>Contractors</hi> have Coined, and issued 141 Tuns and 6 hundred weight of Copper half Pence and Farthings; and from thence in the Months of <hi>October, November,</hi> and <hi>December</hi> last, when they are said to have kept up all their Copper half Pence and Farthings, under pretence of Copper being dear, 22 Tuns more; and tho' the price of Copper did then still encrease, they farther Coined, and issued in the Months of <hi>January</hi> and <hi>February</hi> last, 24 Tuns and 15 Hundred weight of Copper Farthings and half Pence.</p>
+            <p>ALL which Copper half Pence and Farthings were made of fine <hi>English</hi> Copper, according to the Standard remaining in the Tower, as is required by the Contract, and was worth, from <hi>September</hi> to <hi>December</hi> last, 120 <hi>l. per</hi> Tun, and from thence 130 <hi>l. per</hi> Tun.</p>
+            <p>And the Copper half Pence and Farthings were sold for the then Currant Money, without any <hi>Fee Reward,</hi> or other Advan<g ref="char:EOLhyphen"/>tage whatsoever; and the <hi>Contractors</hi> were so far from refusing any but Mill'd and Unclipp'd Money, that they have lost by the price of Guineas, taken for them since <hi>September,</hi> above 200 <hi>l.</hi>
+            </p>
+            <p>NOR did the <hi>Contractors</hi> ever Refuse to Exchange, to the Value of 200 <hi>l. per</hi> Week, in <hi>Tin Farthings</hi> and <hi>half Pence.</hi> But considering the <hi>Tin Farthings,</hi> were above <hi>Eight</hi> Years in Coining; and in them, there was, in that time, Coined to the Value of 70000 <hi>l.</hi> and upwards; 'tis impossible in this <hi>Case</hi> to avoid the <hi>Clamours</hi> of some Per<g ref="char:EOLhyphen"/>sons, tho' all imaginable Care hath been taken to prevent them: But this <hi>Clamour</hi> is only from such who have bought up the <hi>Tin Farthings,</hi> for 10 <hi>s.</hi> in the Pound. And by an Order of the <hi>Contractors,</hi> for taking into their Office all the <hi>Tin half Pence</hi> and <hi>Farthings,</hi> and making to every Person an <hi>Equal,</hi> and <hi>Regular Exchange,</hi> being hindered of that Gain, and from making (for the future) an Advantage upon the People; for whose <hi>ease,</hi> and <hi>benefit,</hi> this Method was taken by the <hi>Contractors,</hi> without any Profit to themselves, or their Servants, who are all obliged, by Bonds, in great Penalties, neither <hi>directly,</hi> nor <hi>indirectly</hi> to intermeddle therein, do prosecute this Groundless Complaint.</p>
+            <p>AND whereas it is said, That the <hi>Copper Money</hi> is lighter than it ought to be: It has been made appear by the Officers of the <hi>Mint,</hi> and the <hi>Comptroler,</hi> that though some of the <hi>Farthings,</hi> and <hi>half Pence,</hi> have been Unequal; yet, in the whole, they have been 504 <hi>l.</hi> 10 <hi>s.</hi> 10 <hi>d.</hi> ½ in <hi>Money,</hi> above the weight allowed by the <hi>Contract,</hi> by which over-weight, the <hi>Contractors</hi> have lost the said Sum of 504 <hi>l.</hi> 10 <hi>s.</hi> 10 <hi>d.</hi> ½.</p>
+            <p>UPON the whole matter, the <hi>Contractors,</hi> instead of making great <hi>Advantages</hi> to themselves, as is falsly suggested, besides the loss by the under weight, and Interest of their Stock, have lost to the 24th. of <hi>November</hi> last, 2469 <hi>l.</hi> 9 <hi>s.</hi> 1 <hi>d.</hi> ½ by this <hi>Contract;</hi> And are very doubtful, whether the <hi>Profit</hi> will ever Answer the <hi>Charge,</hi> they have, and must be at; much less <hi>Recompence</hi> them for their <hi>Time</hi> and <hi>Trouble.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:207551:2"/>
+            <pb facs="tcp:207551:2"/>
+            <p>THE CAS<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> OF THE CONTRACT<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> FOR Making and Vending<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Half-Pence and Farthi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
